@@ -24,10 +24,6 @@ This Power BI dashboard project provides an interactive and visual exploration o
 - Provide insights for road safety improvements and urban planning
 
 ---
----
-
-
----
 
 ## 📂 Dataset Summary
 
