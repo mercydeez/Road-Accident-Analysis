@@ -26,30 +26,72 @@ This Power BI dashboard project provides an interactive and visual exploration o
 ---
 ---
 
-## 📂 Dataset Description
-
-- **Rows**: ~300,000 accident reports  
-- **Coverage**: Multiple UK districts  
-- **Fields Include**:
-  - Accident severity
-  - District and location
-  - Date and time of accident
-  - Weather and light conditions
-  - Road surface type
-  - Number of vehicles involved
-  - Casualty information
-
-> 📌 **Source**: [UK Road Safety Data (data.gov.uk)](https://data.gov.uk/dataset/road-safety-data)  
-> *(Note: Only a sample of the dataset may be included in this repo due to file size limits.)*
 
 ---
 
-## 🛠 Tools & Technologies
+## 📂 Dataset Summary
 
-- **Power BI Desktop**
-- **DAX** for calculated fields and measures
-- **Geospatial Visualization**
-- **CSV/Excel** for data cleaning and transformation
+- **Size**: ~300,000 rows
+- **Attributes**:
+  - Date, Time, District
+  - Severity (Slight / Serious / Fatal)
+  - Number of vehicles and casualties
+  - Weather, light, and road surface conditions
+- **Geographic Scope**: Multiple UK districts
+
+> 📌 *Dataset sourced from [data.gov.uk – UK Road Safety Data](https://data.gov.uk/dataset/road-safety-data)*  
+> *(Note: dataset not uploaded here due to size restrictions)*
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](https://github.com/mercydeez/Road-Accident-Analysis/blob/main/Screenshot%202025-07-12%20141521.png)
+
+---
+
+## 📌 Use Cases
+
+- Local accident **hotspot identification**
+- Urban planning and road safety research
+- Insurance risk analysis
+- Traffic policy decision support
+- Public transportation & infrastructure improvements
+
+---
+
+## 🛠 Tools Used
+
+- Power BI Desktop
+- DAX for calculations
+- CSV/Excel for data wrangling
+- Map visual for geospatial plotting
+
+---
+
+## 🚀 How to Explore
+
+1. Clone or download this repository
+2. Open the Power BI file [`Road_Accident.pbix`](https://github.com/mercydeez/Road-Accident-Analysis/blob/main/Road_Accident.pbix)
+3. Refresh data if required and start interacting with slicers and visuals
+
+---
+
+## 💬 Feedback & Contributions
+
+Open to suggestions and feedback!  
+Feel free to fork, open issues, or submit pull requests to contribute.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Acknowledgments
+
+Thanks to the [UK Department for Transport](https://data.gov.uk/dataset/road-safety-data) for providing open access to the accident data that powers this analysis.
+
+---
